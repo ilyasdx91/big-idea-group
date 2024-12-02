@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100px" height="100px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1.136 1.136"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#FCC300}
+    .fil5 {fill:#F39314}
+    .fil3 {fill:#FBBA00;fill-rule:nonzero}
+    .fil4 {fill:#F39314;fill-rule:nonzero}
+    .fil6 {fill:#EF7B1B;fill-rule:nonzero}
+    .fil2 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="0.982" y1="0.11" x2="0.568" y2="0.833">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FCC300"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#F59D0E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F59D0E"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="1.136" height="1.136"/>
+  <polygon class="fil1" points="0.568,0.11 0.982,0.833 0.155,0.833 "/>
+  <polygon class="fil2" points="0.982,0.833 0.816,0.833 0.568,0.11 "/>
+  <path class="fil3" d="M0.676 0.298l0.16 0 -0.047 0.082 -0.066 0 -0.047 -0.082zm-0.376 0l0.161 0 -0.079 0.137 0 -0.055 -0.034 0 -0.048 -0.082z"/>
+  <g id="_3188589019680">
+   <path class="fil4" d="M0.791 0.758c-0.045,0.045 -0.119,0.075 -0.202,0.075l-0.001 0c-0.043,0 -0.085,-0.008 -0.124,-0.024l0.04 -0.072c0.025,0.009 0.054,0.014 0.085,0.014 0.052,0 0.165,-0.027 0.165,-0.096 0,-0.001 0,-0.002 0,-0.003l0.037 0.106zm-0.048 -0.139c-0.03,-0.043 -0.112,-0.061 -0.154,-0.061 -0.031,0 -0.06,0.005 -0.085,0.014l0 -0.274 0.129 0 0.028 0.082 -0.075 0 0 0.096c0.041,0 0.08,0.007 0.115,0.02l0.042 0.123zm-0.067 -0.321l0.047 0.082 0 0 -0.047 -0.082z"/>
+   <polygon class="fil5" points="0.461,0.298 0.464,0.298 0.464,0.833 0.382,0.833 0.382,0.435 "/>
+  </g>
+  <path class="fil6" d="M0.836 0.655c0,0.038 -0.017,0.074 -0.045,0.103l-0.037 -0.106c0,-0.012 -0.004,-0.023 -0.011,-0.033l-0.042 -0.123c0.08,0.029 0.135,0.089 0.135,0.159zm-0.203 -0.357l0.043 0 0.047 0.082 -0.062 0 -0.028 -0.082z"/>
+  <polygon class="fil1" points="0.422,0.874 0.504,1.019 0.479,1.019 0.422,0.918 0.364,1.019 0.339,1.019 "/>
+  <polygon class="fil1" points="0.704,0.897 0.704,1.019 0.726,1.019 0.726,0.897 0.784,0.897 0.797,0.874 0.653,0.874 0.641,0.897 "/>
+  <polygon class="fil1" points="0.642,0.874 0.504,0.874 0.504,1.019 0.635,1.019 0.635,0.997 0.526,0.997 0.526,0.958 0.594,0.958 0.607,0.936 0.526,0.936 0.526,0.897 0.63,0.897 "/>
+ </g>
+</svg>

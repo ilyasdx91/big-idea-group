@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50px" height="50px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1.491 1.491"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.53872 -0 -0 2.42886 0 -2)" cx="0.153" cy="1.365" r="0.276" fx="0.153" fy="1.365">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FA8F21"/>
+   <stop offset="0.0901961" style="stop-opacity:1; stop-color:#FA8F21"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#D82D7E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D82D7E"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="1.491" height="1.491"/>
+  <path class="fil1" d="M0.533 1.404l-0.119 -0.201 -0.227 -0.048 0.022 -0.235 -0.152 -0.174 0.152 -0.176 -0.022 -0.234 0.227 -0.048 0.119 -0.201 0.212 0.089 0.213 -0.089 0.119 0.201 0.227 0.048 -0.023 0.234 0.153 0.176 -0.153 0.174 0.023 0.235 -0.227 0.048 -0.119 0.201 -0.213 -0.089 -0.212 0.089zm0.023 -0.067l0.189 -0.078 0.19 0.078 0.108 -0.178 0.205 -0.045 -0.019 -0.212 0.138 -0.156 -0.138 -0.157 0.019 -0.212 -0.205 -0.045 -0.108 -0.178 -0.19 0.078 -0.189 -0.078 -0.109 0.178 -0.204 0.045 0.018 0.212 -0.137 0.157 0.137 0.156 -0.018 0.212 0.204 0.045 0.109 0.178zm0.189 -0.591l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-0.078 0.197l0.354 -0.354 -0.037 -0.037 -0.317 0.316 -0.16 -0.16 -0.037 0.038 0.197 0.197z"/>
+ </g>
+</svg>
